@@ -1,0 +1,28 @@
+<application>
+  <component name="SlackStorage">
+    <option name="settings">
+      <map>
+        <entry key="#a-team" value="https://hooks.slack.com/services/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" />
+        <entry key="#development" value="https://hooks.slack.com/services/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" />
+      </map>
+    </option>
+    <option name="aliases">
+      <map>
+        <entry key="#a-team" value="derek.augustine-bot" />
+        <entry key="#development" value="derek.augustine-bot" />
+      </map>
+    </option>
+    <option name="icons">
+      <map>
+        <entry key="#a-team" value=":bike:" />
+        <entry key="#development" value=":bike:" />
+      </map>
+    </option>
+    <option name="channels">
+      <map>
+        <entry key="#a-team" value="" />
+        <entry key="#development" value="" />
+      </map>
+    </option>
+  </component>
+</application>
