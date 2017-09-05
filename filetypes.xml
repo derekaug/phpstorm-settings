@@ -12,17 +12,18 @@
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="deploy" type="PLAIN_TEXT" />
       <mapping pattern="NotificationAccess" type="PLAIN_TEXT" />
-      <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern="check_user_tags" type="PLAIN_TEXT" />
       <mapping pattern=".env.teva" type="PLAIN_TEXT" />
       <mapping pattern="laravel" type="PLAIN_TEXT" />
-      <mapping pattern="Traits" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="quill-styles" type="PLAIN_TEXT" />
-      <mapping ext="sauce" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern="Traits" type="PLAIN_TEXT" />
       <mapping ext="erb" type="PLAIN_TEXT" />
+      <mapping ext="sauce" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
