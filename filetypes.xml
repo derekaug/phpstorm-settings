@@ -24,7 +24,6 @@
       <mapping pattern="src" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern="quill-styles" type="PLAIN_TEXT" />
-      <mapping ext="hbs" type="PLAIN_TEXT" />
       <mapping ext="erb" type="PLAIN_TEXT" />
       <mapping ext="sauce" type="PLAIN_TEXT" />
     </extensionMap>
