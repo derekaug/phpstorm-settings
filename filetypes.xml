@@ -21,7 +21,6 @@
       <mapping pattern="laravel" type="PLAIN_TEXT" />
       <mapping pattern=".env.archrival-agents" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="src" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern="quill-styles" type="PLAIN_TEXT" />
