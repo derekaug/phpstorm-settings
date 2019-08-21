@@ -5,6 +5,7 @@
       <mapping pattern="RunTestSubscriber" type="PLAIN_TEXT" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
+      <mapping pattern="Schedule" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
     </extensionMap>
